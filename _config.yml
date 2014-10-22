@@ -1,6 +1,6 @@
 # Site settings
 title: Nate Vick
-email: nate.vick@ilcoud.com
+email: nate.vick@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
    code, random tech, and life
 baseurl: "" # the subpath of your site, e.g. /blog/
